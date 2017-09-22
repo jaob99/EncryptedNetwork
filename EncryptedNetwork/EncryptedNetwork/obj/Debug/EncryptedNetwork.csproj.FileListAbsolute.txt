@@ -1,0 +1,8 @@
+E:\other\c#temp\EncryptedNetwork\EncryptedNetwork\bin\Debug\EncryptedNetwork.dll
+E:\other\c#temp\EncryptedNetwork\EncryptedNetwork\bin\Debug\EncryptedNetwork.pdb
+E:\other\c#temp\EncryptedNetwork\EncryptedNetwork\obj\Debug\EncryptedNetwork.dll
+E:\other\c#temp\EncryptedNetwork\EncryptedNetwork\obj\Debug\EncryptedNetwork.pdb
+J:\c#\EncryptedNetwork\EncryptedNetwork\bin\Debug\EncryptedNetwork.dll
+J:\c#\EncryptedNetwork\EncryptedNetwork\bin\Debug\EncryptedNetwork.pdb
+J:\c#\EncryptedNetwork\EncryptedNetwork\obj\Debug\EncryptedNetwork.dll
+J:\c#\EncryptedNetwork\EncryptedNetwork\obj\Debug\EncryptedNetwork.pdb

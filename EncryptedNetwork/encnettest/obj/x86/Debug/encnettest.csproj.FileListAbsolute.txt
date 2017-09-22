@@ -1,0 +1,14 @@
+E:\other\c#temp\EncryptedNetwork\encnettest\bin\Debug\encnettest.exe
+E:\other\c#temp\EncryptedNetwork\encnettest\bin\Debug\encnettest.pdb
+E:\other\c#temp\EncryptedNetwork\encnettest\bin\Debug\EncryptedNetwork.dll
+E:\other\c#temp\EncryptedNetwork\encnettest\bin\Debug\EncryptedNetwork.pdb
+E:\other\c#temp\EncryptedNetwork\encnettest\obj\x86\Debug\encnettest.exe
+E:\other\c#temp\EncryptedNetwork\encnettest\obj\x86\Debug\encnettest.pdb
+E:\other\c#temp\EncryptedNetwork\encnettest\obj\x86\Debug\encnettest.csprojResolveAssemblyReference.cache
+J:\c#\EncryptedNetwork\encnettest\obj\x86\Debug\encnettest.exe
+J:\c#\EncryptedNetwork\encnettest\obj\x86\Debug\encnettest.pdb
+J:\c#\EncryptedNetwork\encnettest\bin\Debug\encnettest.exe
+J:\c#\EncryptedNetwork\encnettest\bin\Debug\encnettest.pdb
+J:\c#\EncryptedNetwork\encnettest\bin\Debug\EncryptedNetwork.dll
+J:\c#\EncryptedNetwork\encnettest\bin\Debug\EncryptedNetwork.pdb
+J:\c#\EncryptedNetwork\encnettest\obj\x86\Debug\encnettest.csprojResolveAssemblyReference.cache

@@ -1,0 +1,14 @@
+E:\other\c#temp\EncryptedNetwork\EncryptedNetwork\bin\Release\EncryptedNetwork.dll
+E:\other\c#temp\EncryptedNetwork\EncryptedNetwork\bin\Release\EncryptedNetwork.pdb
+E:\other\c#temp\EncryptedNetwork\EncryptedNetwork\obj\Release\ResolveAssemblyReference.cache
+E:\other\c#temp\EncryptedNetwork\EncryptedNetwork\obj\Release\EncryptedNetwork.dll
+E:\other\c#temp\EncryptedNetwork\EncryptedNetwork\obj\Release\EncryptedNetwork.pdb
+J:\c#\EncryptedNetwork\EncryptedNetwork\bin\Release\EncryptedNetwork.dll
+J:\c#\EncryptedNetwork\EncryptedNetwork\bin\Release\EncryptedNetwork.pdb
+J:\c#\EncryptedNetwork\EncryptedNetwork\obj\Release\EncryptedNetwork.dll
+J:\c#\EncryptedNetwork\EncryptedNetwork\obj\Release\EncryptedNetwork.pdb
+C:\storage\c#\EncryptedNetwork\EncryptedNetwork\bin\Release\EncryptedNetwork.dll
+C:\storage\c#\EncryptedNetwork\EncryptedNetwork\bin\Release\EncryptedNetwork.pdb
+C:\storage\c#\EncryptedNetwork\EncryptedNetwork\obj\Release\EncryptedNetwork.dll
+C:\storage\c#\EncryptedNetwork\EncryptedNetwork\obj\Release\EncryptedNetwork.pdb
+C:\storage\c#\EncryptedNetwork\EncryptedNetwork\obj\Release\EncryptedNetwork.csprojResolveAssemblyReference.cache
